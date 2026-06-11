@@ -1,6 +1,6 @@
-# 🌊 Eco-Vision: Underwater Marine Debris Detection using YOLOv8
+# 🌊 Underwater Trash Detection for Autonomous Ocean Cleanup using YOLOv8
 
-Author: [Your Name] | NIM: [Your NIM] | S1 Statistika | June 2026
+Author: Gregorius Bintang Arga Saputra | NPM: 2206051771 | S1 Ilmu Aktuaria | Juni 2026
 
 ![YOLOv8](https://img.shields.io/badge/Model-YOLOv8s-blue) ![Python](https://img.shields.io/badge/Python-3.10-yellow) ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange)
 
