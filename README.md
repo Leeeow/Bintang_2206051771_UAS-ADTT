@@ -8,9 +8,9 @@ Author: Gregorius Bintang Arga Saputra | NPM: 2206051771 | S1 Ilmu Aktuaria | Ju
 This repository contains the complete deep learning pipeline for detecting underwater marine debris (plastics, cans, nets) using **YOLOv8s (Small)**. Developed as a final project for the *Unstructured Data Analysis (SCST603106)* course, this system is designed to be integrated into Autonomous Underwater Vehicles (AUVs) for automated ocean cleanup.
 
 **Key Features:**
-* 🔄 **Systematic Data Acquisition:** Automated ingestion via `kagglehub` API.
-* 🎨 **Optical Preprocessing:** CLAHE applied to correct underwater color distortion.
-* 🧠 **Anchor-Free Detection:** Optimized for irregularly shaped debris (crumpled plastics, tangled nets).
+* **Systematic Data Acquisition:** Automated ingestion via `kagglehub` API.
+* **Optical Preprocessing:** CLAHE applied to correct underwater color distortion.
+* **Anchor-Free Detection:** Optimized for irregularly shaped debris (crumpled plastics, tangled nets).
 
 ## 📊 Dataset
 * **Source:** [Underwater Trash Detection (Kaggle)](https://www.kaggle.com/datasets/shivamb/underwater-trash-detection)
@@ -40,7 +40,7 @@ Below are sample predictions on the validation set. The model successfully local
 
 | Original Scene | YOLOv8 Prediction |
 | :---: | :---: |
-| ![Inference 1](inference1.jpg) | ![Inference 2](inference2.jpg) |
+| ![Inference 1](obj0236_frame0000065.jpg) | ![Inference 2](YOLOv8_Inference_Mockup.jpg) |
 
 ---
 
